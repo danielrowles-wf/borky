@@ -1,0 +1,7 @@
+---
+base: 'ubuntu/trusty'
+
+add:
+  borky.sh: /usr/local/bin/borky.sh
+
+entrypoint: ["/usr/local/bin/borky.sh"]

@@ -1,0 +1,5 @@
+project: borky
+language: bash
+
+script:
+  - echo "All Ur Bork Are Belong To DevOps"
